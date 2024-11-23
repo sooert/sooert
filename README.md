@@ -1,6 +1,6 @@
 <!--타이틀 부분-->
 <div align="center">
-  <img src="https://github.com/sooert/sooert/assets/101691440/92118a53-c5b6-40bc-b130-bf8c398d7b51" />
+ [ <img src="https://github.com/sooert/sooert/assets/101691440/92118a53-c5b6-40bc-b130-bf8c398d7b51" />](https://readme-typing-svg.demolab.com/demo/?color=7EC6CD&lines=Here%2C+you+can+check+the+materials+on+sooert.)
 </div>
 
 <!--내용 부분-->
