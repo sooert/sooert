@@ -1,1 +1,2 @@
-<text xmlns="http://www.w3.org/2000/svg" text-anchor="middle" alignment-baseline="middle" x="80%" y="40%" class="text" style="fill:#f7f5f5;" stroke="#none" stroke-width="1">Welcom my github</text>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
