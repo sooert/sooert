@@ -1,3 +1,3 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
-![header](https://capsule-render.vercel.app/api?text=Hello%World!)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=ACACAC&width=435&lines=Welcome+My+Gihub" alt="Typing SVG" /></a>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
