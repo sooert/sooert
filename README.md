@@ -1,3 +1,3 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
-Welcom My Gihub
+<img src="https://capsule-render.vercel.app/api?type=soft&color=#d6d5d5&height=100&section=header&text=Welcom My Gihub&fontSize=20px" />
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
