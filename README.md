@@ -23,9 +23,8 @@
 ---
 
 📫 Let's connect:
-- Portfolio: [your-portfolio.com](https://your-portfolio.com)
-- Blog: [your-blog.com](https://your-blog.com)
-- Email: [your-email@example.com](mailto:your-email@example.com)
+- Notion: [https://cute-pea-4ff.notion.site/17b7d9005960802aa45edb6c7675b6c8](https://your-blog.com)
+- Email: [nr7077@naver.com](mailto:your-email@example.com)
 
 ---
 
