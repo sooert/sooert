@@ -1,21 +1,46 @@
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
-<h3 align="center">A passionate [Your Role, e.g., full-stack developer] from [Your Country]</h3>
+<h1 align="center">Hi there 👋, I'm [Sujin]</h1>
+<h3 align="center">Full-stack developer with React, Spring Boot & Node.js</h3>
 
-- 🔭 I’m currently working on **[Your Project]**
-- 🌱 I’m currently learning **[Tech Stack / Frameworks]**
-- 👨‍💻 All of my projects are available at [your portfolio link]
-- 📫 How to reach me **[your email]**
-- 📄 Know about my experiences [your resume link]
+---
 
-<h3 align="left">Languages and Tools:</h3>
+💡 I’m currently focused on:
+- 🚀 Building modern web apps with **React + Spring Boot**
+- 🌐 Learning scalable backend architecture with **Node.js**
+- 📦 Exploring DevOps & deployment strategies
+
+---
+
+🛠️ Tech Stack:
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  <!-- 추가 기술 아이콘 -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="Spring Boot"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="TypeScript"/>
 </p>
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+---
 
-<!-- 방문자 수 뱃지 -->
-![visitors](https://visitor-badge.glitch.me/badge?page_id=yourusername.yourusername)
+📫 Let's connect:
+- Portfolio: [your-portfolio.com](https://your-portfolio.com)
+- Blog: [your-blog.com](https://your-blog.com)
+- Email: [your-email@example.com](mailto:your-email@example.com)
+
+---
+
+📊 GitHub Stats:
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" height="150"/>
+</p>
+
+---
+
+🐾 Fun Fact:
+> "Currently working with a curious 🐱 always watching my code."
+
+<!-- 방문자 뱃지 -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="yourusername" />
+</p>
