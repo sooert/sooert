@@ -23,8 +23,8 @@
 ---
 
 📫 Let's connect:
-- Notion: [https://cute-pea-4ff.notion.site/17b7d9005960802aa45edb6c7675b6c8](https://your-blog.com)
-- Email: [nr7077@naver.com](mailto:your-email@example.com)
+- Notion: [https://cute-pea-4ff.notion.site/17b7d9005960802aa45edb6c7675b6c8]
+- Email: [nr7077@naver.com]
 
 ---
 
